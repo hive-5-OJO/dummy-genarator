@@ -1,0 +1,8 @@
+promotion_id,promotion_name,promotion_detail
+1,2025 25% 할인,type=DISCOUNT_POLICY|channel=ALL|start=20250101|end=20251231
+2,2025 자동이체 할인,type=CARD_DISCOUNT|channel=ALL|start=20250101|end=20251231
+3,2025 1월 혜택,type=MEMBERSHIP|channel=MEMBERSHIP|start=20250101|end=20250131
+4,2025 봄 인터넷 결합 혜택,type=BENEFIT|channel=ONLINE_HOME|start=20250301|end=20250531
+5,2025 여름 로밍 데이터 혜택,type=EVENT|channel=ROAMING|start=20250601|end=20250831
+6,2025 블랙프라이데이 스토어 세일,type=SALE|channel=STORE|start=20251101|end=20251130
+7,2025 연말 재약정 혜택,type=BENEFIT|channel=ALL|start=20251201|end=20251231
